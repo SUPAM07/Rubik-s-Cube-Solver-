@@ -1,0 +1,7 @@
+source .venv/bin/activate
+
+python -m venv my_project_env
+
+
+
+pip install opencv-python numpy kociemba colorama
