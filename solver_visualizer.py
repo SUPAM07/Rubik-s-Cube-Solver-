@@ -32,5 +32,6 @@ def process(operation_list):
         cv2.putText(solution_preview, f"Move: {move}", (550, 50), font, 1, (0, 255, 0), 2, cv2.LINE_AA)
         cv2.imshow('Solution', solution_preview)
         
+        
         if cv2.waitKey(2000) & 0xFF == 27: # 2-second delay per move
             break
