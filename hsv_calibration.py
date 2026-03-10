@@ -71,6 +71,7 @@ while True:
         # Calculate the average HSV value of the ROI
         h, s, v = np.mean(roi, axis=(0, 1)).astype(int)
         
+        
         # Print the HSV value to the terminal
         print(f"Box {i+1}: H={h:3d}, S={s:3d}, V={v:3d}")
 
