@@ -49,6 +49,7 @@ def main():
         draw_preview_stickers(preview, stickers)
         texton_preview_stickers(preview)
 
+
         # Detect colors from the 9 main sticker regions
         current_scan = []
         for i in range(9):
