@@ -88,6 +88,7 @@ while True:
     if cv2.waitKey(500) & 0xFF == 27: # Update every 500ms
         break
 
+
 # Clean up
 cap.release()
 cv2.destroyAllWindows()
