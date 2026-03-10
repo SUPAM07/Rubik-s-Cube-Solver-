@@ -82,6 +82,7 @@ def main():
         cv2.imshow('preview', preview)
         cv2.imshow('frame', img[0:500, 0:500])
 
+
     # --- Cleanup ---
     cap.release()
     cv2.destroyAllWindows()
