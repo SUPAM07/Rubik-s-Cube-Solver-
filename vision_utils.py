@@ -4,6 +4,7 @@
 import cv2
 from config import color, textPoints, font
 
+
 def color_detect(h, s, v):
     """Identifies a color name based on its HSV values."""
     if s < 38: return 'white'
