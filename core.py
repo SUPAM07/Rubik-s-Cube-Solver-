@@ -57,7 +57,6 @@ def main():
             color_name = color_detect(hsv_val[0], hsv_val[1], hsv_val[2])
             current_scan.append(color_name)
             
-            
             x, y = stickers['current'][i]
             cv2.rectangle(img, (x, y), (x + 30, y + 30), color[color_name], -1)
 
