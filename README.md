@@ -16,7 +16,7 @@
 ## 📸 Demo
 
 <p align="center">
-  <img src="./assets/homepage.png" width="90%" />
+  <img src="./assets/cube.png" width="90%" />
 </p>
 
 ---
