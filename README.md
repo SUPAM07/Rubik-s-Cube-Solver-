@@ -157,7 +157,7 @@ You need Python 3 installed on your system. It's recommended to run this within 
 ├── vision_utils.py        # Helper functions for OpenCV processing
 └── README.md              # Project documentation
 
-
+```
 ## 🤝 Acknowledgments
 
 - [Herbert Kociemba](http://kociemba.org/cube.htm) for the brilliant Two-Phase Algorithm.
