@@ -106,8 +106,8 @@ You need Python 3 installed on your system. It's recommended to run this within 
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone https://github.com/your-username/rubiks-cube-solver.git
-   cd rubiks-cube-solver
+   git clone https://github.com/SUPAM07/cubeVision.git
+   cd cubeVision
    ```
 
 2. **Create a virtual environment**:
