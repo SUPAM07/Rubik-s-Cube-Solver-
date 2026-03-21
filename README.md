@@ -86,7 +86,7 @@ The system captures cube faces via webcam, detects colors using OpenCV, converts
 ```text
 Webcam Input → OpenCV Processing → HSV Color Detection → Cube State Encoding → Kociemba Solver → Visualization
 
----
+```
 
 
 ## 🚀 Getting Started
@@ -156,7 +156,7 @@ You need Python 3 installed on your system. It's recommended to run this within 
 ├── solver_visualizer.py   # Graphics handling for the step-by-step solution viewing
 ├── vision_utils.py        # Helper functions for OpenCV processing
 └── README.md              # Project documentation
-```
+
 
 ## 🤝 Acknowledgments
 
