@@ -12,8 +12,13 @@
 </div>
 
 ---
+## 🚀 Demo
 
-## 📸 Demo
+🔗 https://drive.google.com/file/d/1e1Jehq7A7n3eJeUhSfEsecYDBnvVKpFK/view?usp=drive_link
+
+---
+
+## 📸 Preview
 
 <p align="center">
   <img src="./assets/cube.png" width="90%" />
